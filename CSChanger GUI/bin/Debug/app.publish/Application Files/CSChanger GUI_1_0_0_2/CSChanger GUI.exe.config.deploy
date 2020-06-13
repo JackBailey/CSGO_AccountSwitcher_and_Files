@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="CSChanger_GUI.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+    <userSettings>
+        <CSChanger_GUI.Properties.Settings>
+            <setting name="AltAccount" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="MainAccount" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="SteamDirVal" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="loadExeBefore" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="fileBefore1" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="fileBefore2" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="fileAfter" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="csgoDir" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="darkVal" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </CSChanger_GUI.Properties.Settings>
+    </userSettings>
+</configuration>

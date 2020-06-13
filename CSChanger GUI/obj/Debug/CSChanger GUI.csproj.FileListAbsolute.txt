@@ -12,3 +12,17 @@ C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\bin\Debug\CSChanger GUI.e
 C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\bin\Debug\CSChanger GUI.application
 C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger GUI.exe.manifest
 C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger GUI.application
+E:\Glymps Switcher and Launcher\CSChanger GUI\bin\Debug\CSChanger GUI.exe.config
+E:\Glymps Switcher and Launcher\CSChanger GUI\bin\Debug\CSChanger GUI.exe.manifest
+E:\Glymps Switcher and Launcher\CSChanger GUI\bin\Debug\CSChanger GUI.application
+E:\Glymps Switcher and Launcher\CSChanger GUI\bin\Debug\CSChanger GUI.exe
+E:\Glymps Switcher and Launcher\CSChanger GUI\bin\Debug\CSChanger GUI.pdb
+E:\Glymps Switcher and Launcher\CSChanger GUI\obj\Debug\CSChanger GUI.csprojAssemblyReference.cache
+E:\Glymps Switcher and Launcher\CSChanger GUI\obj\Debug\CSChanger_GUI.Form1.resources
+E:\Glymps Switcher and Launcher\CSChanger GUI\obj\Debug\CSChanger_GUI.Properties.Resources.resources
+E:\Glymps Switcher and Launcher\CSChanger GUI\obj\Debug\CSChanger GUI.csproj.GenerateResource.cache
+E:\Glymps Switcher and Launcher\CSChanger GUI\obj\Debug\CSChanger GUI.csproj.CoreCompileInputs.cache
+E:\Glymps Switcher and Launcher\CSChanger GUI\obj\Debug\CSChanger GUI.exe.manifest
+E:\Glymps Switcher and Launcher\CSChanger GUI\obj\Debug\CSChanger GUI.application
+E:\Glymps Switcher and Launcher\CSChanger GUI\obj\Debug\CSChanger GUI.exe
+E:\Glymps Switcher and Launcher\CSChanger GUI\obj\Debug\CSChanger GUI.pdb

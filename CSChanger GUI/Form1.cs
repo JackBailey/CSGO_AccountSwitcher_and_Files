@@ -126,14 +126,14 @@ namespace CSChanger_GUI
         {
             try
             {
-                if(!String.IsNullOrEmpty((loadAfterTextBox.Text)))
+                if(!String.IsNullOrEmpty((csgoDirTextBox.Text)))
             {
-                    System.Diagnostics.Process.Start(loadAfterTextBox.Text);
+                    System.Diagnostics.Process.Start(csgoDirTextBox.Text);
                 }
             }
             catch (System.ComponentModel.Win32Exception)
             {
-                System.Windows.Forms.MessageBox.Show("Check Run after Directory, No file found");
+                System.Windows.Forms.MessageBox.Show("Check csgo Directory, No file found");
             }
         }
 

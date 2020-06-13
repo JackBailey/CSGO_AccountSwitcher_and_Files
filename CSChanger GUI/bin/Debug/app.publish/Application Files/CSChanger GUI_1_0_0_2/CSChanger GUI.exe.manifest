@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CSChanger GUI.exe" version="1.0.0.2" publicKeyToken="6039d669a51701e7" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CSChanger GUI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CSChanger GUI.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSChanger GUI.exe" size="67496">
+      <assemblyIdentity name="CSChanger GUI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>X3tYxFE4QaP99kptWfA09zw2b5ctRtNghlu6s9Ec8B8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CSChanger GUI.exe.config" size="1853">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6vnDngtoBQCKljWTAEhmqfe0ERaOe78miltCXBib4k8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JACKPC\jack" issuerKeyHash="a3e073ad0de520c39258c3538ffa0bb9fe00b644" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2DedW3wX1QAGd5I9fs6p4Rw6mwbtpdscqECMYBMjTsU=</DigestValue></Reference></SignedInfo><SignatureValue>fC3nAtz/WZzOHeUZnP1mf/KNU0XLnnVAJCuJuSx56HBfNBOZ8B/MKl99OCOi7L0iSZwIKGv2wLybOctO+cNbl7ywYIALNo2jebybB649OBnWRdLEVyxn5/MlPBEShF5jyzp2J+rA8ZyOad5BQ0ZVKZgjGmZVogQZ7bkwCGKLlWw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pdloeNIDbW2fKB1SIZ+5wC9M9rkbxi7Bw8tnyACkD6jV4qUnbmfZPzS9Ebl/q+clVxEsH6ePQA125J0ydhjw/5LH10VVSB7xH5PSqorc46Cvn1exXYyQGYCZd9XPnecraSDfhxtlIsY4movKTzIww6zjdwxYxDjkVRRsCexIrR0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c54e2313608c40a81cdba5ed069b3a1ce1a9ce7e3d92770600d5177c5b9d37d8" Description="" Url=""><as:assemblyIdentity name="CSChanger GUI.exe" version="1.0.0.2" publicKeyToken="6039d669a51701e7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JACKPC\jack</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5AUUy/OEHLA3Az+n8Zfnvuud7G3WssiXaXJFDZkKcTU=</DigestValue></Reference></SignedInfo><SignatureValue>hvmCu2/gXdn9IfXDnb9zLiiR507PldmhFG94vAmgz2pyO+WPnpO8ZwMyshr22X+DwZ4NUrRMYrn58gxDFWTu893QAebQnsSQdVqYRbIDmqxc8Oso7Sx2B4d92uPFXz4jknJqcCuQaj3bVgh72kWRqaZG2xNofqvIHoBpWPo0LGQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pdloeNIDbW2fKB1SIZ+5wC9M9rkbxi7Bw8tnyACkD6jV4qUnbmfZPzS9Ebl/q+clVxEsH6ePQA125J0ydhjw/5LH10VVSB7xH5PSqorc46Cvn1exXYyQGYCZd9XPnecraSDfhxtlIsY4movKTzIww6zjdwxYxDjkVRRsCexIrR0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQGUxeV4UroIhMtHKyeBx2gzANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYASgBBAEMASwBQAEMAXABqAGEAYwBrMB4XDTIwMDYxMzE1NDQwM1oXDTIxMDYxMzIxNDQwM1owITEfMB0GA1UEAx4WAEoAQQBDAEsAUABDAFwAagBhAGMAazCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEApdloeNIDbW2fKB1SIZ+5wC9M9rkbxi7Bw8tnyACkD6jV4qUnbmfZPzS9Ebl/q+clVxEsH6ePQA125J0ydhjw/5LH10VVSB7xH5PSqorc46Cvn1exXYyQGYCZd9XPnecraSDfhxtlIsY4movKTzIww6zjdwxYxDjkVRRsCexIrR0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQBdEkxCSwDY69rc+yNTLkGAfKsV+lEdB/Zf7thoPyNJw3FEZ2TBLXdFJTHhSficwOCw7DUScZ5NGUlGcC+L2GtylmGRIZvrs1N3k7t763BiLN8ZW1OH/BERktwo/i0f6FaBsQ/JWwEgJAPDOmuzmOPuW5G+6DVwM8MPq2dY9xg43Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
