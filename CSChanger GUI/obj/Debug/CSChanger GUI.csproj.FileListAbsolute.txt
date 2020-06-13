@@ -1,0 +1,14 @@
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\bin\Debug\CSChanger GUI.exe.config
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\bin\Debug\CSChanger GUI.exe
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\bin\Debug\CSChanger GUI.pdb
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger GUI.csprojAssemblyReference.cache
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger_GUI.Form1.resources
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger_GUI.Properties.Resources.resources
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger GUI.csproj.GenerateResource.cache
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger GUI.csproj.CoreCompileInputs.cache
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger GUI.exe
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger GUI.pdb
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\bin\Debug\CSChanger GUI.exe.manifest
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\bin\Debug\CSChanger GUI.application
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger GUI.exe.manifest
+C:\Users\jack\source\repos\CSChanger GUI\CSChanger GUI\obj\Debug\CSChanger GUI.application
